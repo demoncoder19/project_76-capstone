@@ -1,0 +1,50 @@
+#solar{
+    height: 300px;
+    width:px;
+   
+}
+#lunar{
+    height: 300px;
+    width: px;
+   
+    margin-left: 20px;
+}
+body{
+    background-color: darkgray;
+}
+#SOLARE{
+    width: 700px;
+    height: 270px;
+    font-family:fantasy;
+background-color:dimgray;
+}
+solarec{
+    background-color: dimgray;
+}
+#LUNARE{
+
+width: 700px;
+    height: 290px;
+    font-family: fantasy;
+    background-color: dimgray;
+
+}
+#images{
+    
+    width: 400px;
+    height: 300px;
+    
+}
+#button{
+    height: 50px;
+    width: 100px;
+    color:cornsilk;
+}
+#button{
+    background-color:darkorange;
+}
+#linked{
+height: 700px;
+    width: 700px;
+
+}
